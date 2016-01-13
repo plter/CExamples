@@ -2,7 +2,6 @@
 // Created by plter on 1/13/16.
 //
 
-#include <MacTypes.h>
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
